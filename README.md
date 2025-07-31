@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Quezty 👋
 
-<!--
-**Quezty/Quezty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Network Technician / Free-time Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Interests
+
+- **Languages & Scripting:** Python, Bash, JavaScript, Vue, Nix
+- **Operating System:** NixOS with Hyprland
+- **Networking:** Juniper, Fortinet
+- **APIs:** Making integrations between platforms and making back ends for applications
+
+---
+
+### 🚧 Projects in Progress
+
+- **[Nixos-Configuration](https://github.com/Quezty/Nixos-Configuration):**  
+  Personal, customizable NixOS configuration templates and modules.
+- **[Install-Nixos](https://github.com/Quezty/Install-Nixos):**  
+  Script to simplify the NixOS installation process for my configuration.
+
+*Neither project is fully finished, but they're my most liked and active! Contributions and feedback are welcome.*
+
+---
+
+### 💡 About Me
+
+- 🖥️ Always learning and tinkering with automation
+- 🕹️ Big fan of reproducible setups and declarative configurations
+- 🤝 Open to networking, collaborative learning, and new project ideas
+
+---
+
+### 📫 Get in Touch
+
+- [GitHub Discussions](https://github.com/Quezty)
+- Or open an issue in one of my repos!
+
+---
+
+_Thanks for stopping by!_
