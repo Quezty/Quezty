@@ -19,8 +19,10 @@
   Personal, customizable NixOS configuration templates and modules.
 - **[Install-Nixos](https://github.com/Quezty/Install-Nixos):**  
   Script to simplify the NixOS installation process for my configuration.
+- **[Project-launcher](https://github.com/Quezty/Project-launcher):**
+  TUI written in Python using Textual
 
-*Neither project is fully finished, but they're my most liked and active! Contributions and feedback are welcome.*
+*None of these projects are fully finished, but they're my most liked and active! Contributions and feedback are welcome.*
 
 ---
 
